@@ -1,4 +1,4 @@
-from math import cos, sin, exp, sqrt
+from math import cos, sin, exp
 
 
 def f(x):
