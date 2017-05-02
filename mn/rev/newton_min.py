@@ -11,7 +11,7 @@ def f__(x):
 
 xtol = float(input("xtol: "))
 x0 = float(input("x0: "))
-
+#verificar entrada
 # Realizando o método de Newton para minimos
 x = x0
 while True:
