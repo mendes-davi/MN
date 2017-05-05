@@ -3,6 +3,7 @@ import numpy as np
 
 def g(x):
     return x**4 - 10*x**3 + 8*x
+# Código com erro e crashado devido a entrada proposta do problema e fabio é foda
 
 x0 = float(input("a: "))
 x1 = float(input("b: "))
