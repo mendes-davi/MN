@@ -21,3 +21,4 @@ if f(x0) == -1:
     print("%.6f" % y)
 else:
     print("%.6f"% f(x0))
+
