@@ -15,6 +15,7 @@ ym = Y.mean()
 xym = (X * Y).mean()
 #aaaa
 #aa
+#aaa
 xxm = (X * X).mean()
 yym=(Y*Y).mean()
 am = (xxm * ym - xm *xym) / (xxm - xm * xm)
