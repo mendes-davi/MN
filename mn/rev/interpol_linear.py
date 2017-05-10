@@ -16,7 +16,6 @@ if f(x0) == -1:
     else:
         limSup = round(x0)
         limInf = round(x0 - 0.5)
-
     y = f(limInf) + (x0 - limInf)*(f(limSup) - f(limInf))/(limSup - limInf)
     print("%.6f" % y)
 else:
