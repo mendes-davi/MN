@@ -13,6 +13,7 @@ for i in range(0,n):
 xm = X.mean()
 ym = Y.mean()
 xym = (X * Y).mean()
+#aaaa
 xxm = (X * X).mean()
 yym=(Y*Y).mean()
 am = (xxm * ym - xm *xym) / (xxm - xm * xm)
